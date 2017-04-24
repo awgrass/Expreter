@@ -1,6 +1,6 @@
 # ExpInterpreter
 
-This is an Interpreter, written in Scala, for the fictional programming language "Exp". 
+This is an interpreter, written in Scala, for the fictional programming language "Exp". 
 
 I'm very proud of this piece of software, because it was a lot of work and got me so deep into functional programming. 
 
