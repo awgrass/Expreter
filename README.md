@@ -1,4 +1,4 @@
-# ExpInterpreter
+# Expreter
 
 This is an interpreter, written in Scala, for the fictional programming language "Exp". 
 
